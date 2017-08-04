@@ -20,6 +20,6 @@
 
 ##### Autocomplete
 1. Take **Kotlin.xml** file.
-2. If you want to use autocomplete for ChaiScript on Darcula theme, rename it to **ChaiScript_Darcula.xml**
+2. If you want to use autocomplete for Kotlin on Darcula theme, rename it to **Kotlin_Darcula.xml**
 3. Copy to _c:\Program Files\Notepad++\plugins\APIs_.
 4. Restart Notepad++.
