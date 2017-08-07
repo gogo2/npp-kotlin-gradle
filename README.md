@@ -1,4 +1,6 @@
-## npp-kotlin
+## npp-kotlin-gradle
+
+## Kotlin and Gradle support for notepad++
 
 ### [Kotlin](https://kotlinlang.org/) language support for Notepad++
 
@@ -23,3 +25,9 @@
 2. If you want to use autocomplete for Kotlin on Darcula theme, rename it to **Kotlin_Darcula.xml**
 3. Copy to _c:\Program Files\Notepad++\plugins\APIs_.
 4. Restart Notepad++.
+
+
+### [Gradle](https://gradle.org/) DSL support for Notepad++
+Keyword list based on [gist](https://gist.github.com/toddb/2870655)
+
+Installation same as for Kotlin.
